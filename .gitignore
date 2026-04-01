@@ -1,0 +1,29 @@
+# Environments
+.agents/skills/
+.gemini/
+.env
+
+# Application Outputs
+output/
+profile.md
+personal_info.json
+insights.json
+evidence.json
+cover_letter.md
+contact.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# System
+.DS_Store
+*.swp
+tests/CV.pdf
