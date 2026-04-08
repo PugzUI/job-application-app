@@ -4,24 +4,9 @@ A Python-based application pipeline that generates personalized cover letters fr
 
 This started as a quick prototype and has now been hardened into a more refined project with:
 
-- deterministic template rendering
-- strict placeholder integrity checks
 - structured CLI workflow
 - reusable internal modules
 - automated tests for core behavior
-
-## MIT License and Free Use
-
-This repository is licensed under the **MIT License** (`LICENSE`).
-
-You are explicitly free to:
-
-- use it personally or commercially
-- modify and extend it
-- redistribute it
-
-If you want to fork this into your own application,
-you can do that without asking for additional permission.
 
 ## What It Does
 
